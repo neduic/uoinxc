@@ -1,0 +1,16 @@
+127.0.0.1:1234#CFnat
+cf.090227.xyz:443#CM
+icook.hk:443#icook-1
+icook.tw:443#icook-2
+www.gov.ua:443#gov
+www.ipget.net:443#ipget
+time.is:443#time
+www.wto.org:443#wto
+www.visa.com:443#visa
+keira.ns.cloudflare.com:443#官方
+cf.ywr.us.kg:443#Su-1
+ywr.runo.rr.nu:443#Su-3
+rus.runo.rr.nu:443#Su-6
+japan.com:443#JPM
+singapore.com:443#SGM
+russia.com:443#RUM
