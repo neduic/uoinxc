@@ -1,7 +1,7 @@
 127.0.0.1:1234#CFnat
 cf.090227.xyz:80#CM
 icook.hk:80#icook-1
-icook.tw:80#icook-2
+ping.pe:80#pi
 www.gov.ua:80#gov
 www.ipget.net:80#ipget
 time.is:80#time
