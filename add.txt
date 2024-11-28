@@ -1,7 +1,7 @@
 127.0.0.1:1234#CFnat
 cf.090227.xyz:443#CM
 icook.hk:443#icook
-www.fortnite.com:443#fornite
+www.fortnite.com:443#fortnite
 ping.pe:443#pi
 www.gov.ua:443#gov
 time.is:443#time
