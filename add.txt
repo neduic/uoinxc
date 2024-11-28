@@ -6,7 +6,7 @@ ping.pe:443#pi
 www.gov.ua:443#gov
 time.is:443#time
 www.wto.org:443#wto
-www.visa.com:443#visa
+www.who.int:443#wio
 keira.ns.cloudflare.com:443#官方
 cf.ywr.us.kg:443#Su-1
 ywr.runo.rr.nu:443#Su-3
