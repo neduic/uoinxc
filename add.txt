@@ -1,13 +1,8 @@
 127.0.0.1:1234#CFnat
 icook.hk:443#icook
 www.fortnite.com:443#fortnite
-ping.pe:443#pi
-www.gov.ua:443#gov
 time.is:443#time
-www.wto.org:443#wto
-keira.ns.cloudflare.com:443#NS
+xi.yinxor.dynv6.net:443#Xi
 cf.ywr.us.kg:443#CF
-ywr.runo.rr.nu:443#Ywr
-japan.com:443#JPM
 singapore.com:443#SGM
 russia.com:443#RUM
